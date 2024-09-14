@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Rudra Dhoot Game Pro - Explore coding, game development, and creativity!">
+    <title>Rudra Dhoot Game Pro</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2d2d2d;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin-top: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-size: 1.2em;
+        }
+        section.hero {
+            background-image: url('https://example.com/hero.jpg'); /* Replace with actual image */
+            background-size: cover;
+            background-position: center;
+            height: 60vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-shadow: 2px 2px 4px #000;
+        }
+        section.hero h1 {
+            font-size: 3em;
+        }
+        section.content {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #2d2d2d;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Rudra Dhoot Game Pro</h1>
+        <p>Unlock the World of Game Development & Coding</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="games.html">Games</a>
+        <a href="blog.html">Blog</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <section class="hero">
+        <h1>Welcome to Rudra Dhoot Game Pro</h1>
+    </section>
+
+    <section class="content">
+        <h2>Learn, Code, Create!</h2>
+        <p>Explore game development tutorials, coding tips, and more.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Rudra Dhoot Game Pro - All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
